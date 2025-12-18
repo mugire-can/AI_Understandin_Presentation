@@ -1,0 +1,39 @@
+# OS files
+.DS_Store
+Thumbs.db
+*.tmp
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# Build and dependency files
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+
+# OS-specific
+.AppleDouble
+.LSOverride
